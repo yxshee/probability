@@ -123,5 +123,5 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for de
 ---
 
 **Disclaimer:**  
-This repository is for learning and experimentation only. Scripts may not be optimized for production use.  
+> This repository is for learning and experimentation only. Scripts may not be optimized for production use.  
 Feel free to explore, modify, and learn!
