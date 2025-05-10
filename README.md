@@ -1,4 +1,4 @@
-# Probability & Statistics Learning Repository
+# Probability & Statistics 
 
 > **This is a learning repository, not a production project. All code and content are for educational purposes only.**
 
