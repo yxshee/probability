@@ -1,5 +1,7 @@
 
-<img src="https://github.com/user-attachments/assets/0fa9b643-811f-4738-80c3-9142bc77fbd5" width="505">
+<img src="https://github.com/user-attachments/assets/303eab62-5806-4ee2-8cf9-febb9fef656f" width="505">
+
+
 
 # Probability & Statistics 
 
